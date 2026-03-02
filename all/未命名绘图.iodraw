@@ -244,8 +244,11 @@
         <mxCell id="PMEhRpV68OZb90FWqFod-23" value="雷达分支&lt;div&gt;Linear+ReLU&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="830" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PMEhRpV68OZb90FWqFod-24" value="特征拼接&lt;div&gt;Concat&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="760" width="120" height="60" as="geometry" />
+        <mxCell id="PMEhRpV68OZb90FWqFod-24" value="特征拼接" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="770" width="76" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PMEhRpV68OZb90FWqFod-25" value="特征拼接" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="780" width="76" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
