@@ -196,6 +196,9 @@
         <mxCell id="PMEhRpV68OZb90FWqFod-9" value="对抗PPO&lt;div&gt;稠密奖励&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="710" width="80" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="PMEhRpV68OZb90FWqFod-10" value="对抗PPO&lt;div&gt;稠密奖励&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="710" width="80" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
