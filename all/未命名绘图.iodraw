@@ -245,19 +245,22 @@
           <mxGeometry x="140" y="830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PMEhRpV68OZb90FWqFod-24" value="特征拼接" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="770" width="76" height="40" as="geometry" />
+          <mxGeometry x="270" y="775" width="76" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PMEhRpV68OZb90FWqFod-25" value="全连接层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="770" width="76" height="40" as="geometry" />
+          <mxGeometry x="360" y="775" width="76" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PMEhRpV68OZb90FWqFod-26" value="LSTM层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="770" width="76" height="40" as="geometry" />
+          <mxGeometry x="450" y="775" width="76" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PMEhRpV68OZb90FWqFod-27" value="Actor&lt;div&gt;&amp;nbsp;π(a|s;θ)&lt;/div&gt;&lt;div&gt;输出动作分布&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="730" width="76" height="40" as="geometry" />
+          <mxGeometry x="540" y="735" width="76" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PMEhRpV68OZb90FWqFod-28" value="Critic&lt;div&gt;&amp;nbsp;V(s;w)&lt;/div&gt;&lt;div&gt;输出状态价值&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="820" width="76" height="40" as="geometry" />
+          <mxGeometry x="540" y="825" width="76" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PMEhRpV68OZb90FWqFod-29" value="LSTM层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="775" width="76" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
