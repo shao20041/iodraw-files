@@ -238,6 +238,9 @@
         <mxCell id="PMEhRpV68OZb90FWqFod-21" value="环境状态输入&lt;div&gt;向量状态&lt;/div&gt;&lt;div&gt;雷达数据&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="770" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="PMEhRpV68OZb90FWqFod-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PMEhRpV68OZb90FWqFod-22" target="PMEhRpV68OZb90FWqFod-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PMEhRpV68OZb90FWqFod-22" value="向量分支&lt;div&gt;Linear+ReLU&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="730" width="80" height="50" as="geometry" />
         </mxCell>
@@ -248,7 +251,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PMEhRpV68OZb90FWqFod-24" value="特征拼接" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="215" y="775" width="76" height="40" as="geometry" />
+          <mxGeometry x="222.5" y="775" width="76" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PMEhRpV68OZb90FWqFod-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PMEhRpV68OZb90FWqFod-25" target="PMEhRpV68OZb90FWqFod-26">
           <mxGeometry relative="1" as="geometry" />
