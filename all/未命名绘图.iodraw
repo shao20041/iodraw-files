@@ -175,11 +175,20 @@
         <mxCell id="PMEhRpV68OZb90FWqFod-1" value="问题建模" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="640" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="PMEhRpV68OZb90FWqFod-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PMEhRpV68OZb90FWqFod-2" target="PMEhRpV68OZb90FWqFod-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PMEhRpV68OZb90FWqFod-2" value="算法设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="640" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="PMEhRpV68OZb90FWqFod-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PMEhRpV68OZb90FWqFod-3" target="PMEhRpV68OZb90FWqFod-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PMEhRpV68OZb90FWqFod-3" value="环境搭建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PMEhRpV68OZb90FWqFod-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PMEhRpV68OZb90FWqFod-4" target="PMEhRpV68OZb90FWqFod-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PMEhRpV68OZb90FWqFod-4" value="仿真训练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="640" width="80" height="40" as="geometry" />
@@ -203,6 +212,12 @@
           <mxGeometry x="590" y="710" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PMEhRpV68OZb90FWqFod-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PMEhRpV68OZb90FWqFod-1" target="PMEhRpV68OZb90FWqFod-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="820" as="sourcePoint" />
+            <mxPoint x="570" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PMEhRpV68OZb90FWqFod-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PMEhRpV68OZb90FWqFod-1" target="PMEhRpV68OZb90FWqFod-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="820" as="sourcePoint" />
             <mxPoint x="570" y="770" as="targetPoint" />
