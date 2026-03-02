@@ -262,7 +262,7 @@
         <mxCell id="PMEhRpV68OZb90FWqFod-29" value="执行动作a" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="775" width="76" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PMEhRpV68OZb90FWqFod-30" value="执行动作a" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PMEhRpV68OZb90FWqFod-30" value="获得奖励r和s&#39;&lt;div&gt;计算优势函数&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="775" width="76" height="40" as="geometry" />
         </mxCell>
       </root>
