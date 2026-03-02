@@ -251,7 +251,13 @@
           <mxGeometry x="430" y="770" width="76" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PMEhRpV68OZb90FWqFod-26" value="LSTM层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="506" y="770" width="76" height="40" as="geometry" />
+          <mxGeometry x="520" y="770" width="76" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PMEhRpV68OZb90FWqFod-27" value="LSTM层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="780" width="76" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PMEhRpV68OZb90FWqFod-28" value="LSTM层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="820" width="76" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
