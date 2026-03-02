@@ -178,10 +178,16 @@
         <mxCell id="PMEhRpV68OZb90FWqFod-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PMEhRpV68OZb90FWqFod-2" target="PMEhRpV68OZb90FWqFod-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="PMEhRpV68OZb90FWqFod-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PMEhRpV68OZb90FWqFod-2" target="PMEhRpV68OZb90FWqFod-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PMEhRpV68OZb90FWqFod-2" value="算法设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="640" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PMEhRpV68OZb90FWqFod-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PMEhRpV68OZb90FWqFod-3" target="PMEhRpV68OZb90FWqFod-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PMEhRpV68OZb90FWqFod-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PMEhRpV68OZb90FWqFod-3" target="PMEhRpV68OZb90FWqFod-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PMEhRpV68OZb90FWqFod-3" value="环境搭建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -190,8 +196,14 @@
         <mxCell id="PMEhRpV68OZb90FWqFod-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PMEhRpV68OZb90FWqFod-4" target="PMEhRpV68OZb90FWqFod-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="PMEhRpV68OZb90FWqFod-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PMEhRpV68OZb90FWqFod-4" target="PMEhRpV68OZb90FWqFod-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PMEhRpV68OZb90FWqFod-4" value="仿真训练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PMEhRpV68OZb90FWqFod-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PMEhRpV68OZb90FWqFod-6" target="PMEhRpV68OZb90FWqFod-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PMEhRpV68OZb90FWqFod-6" value="性能评估与结果分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="640" width="80" height="40" as="geometry" />
