@@ -250,7 +250,7 @@
         <mxCell id="PMEhRpV68OZb90FWqFod-25" value="全连接层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="455" y="770" width="76" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PMEhRpV68OZb90FWqFod-26" value="全连接层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PMEhRpV68OZb90FWqFod-26" value="LSTM层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="545" y="770" width="76" height="40" as="geometry" />
         </mxCell>
       </root>
