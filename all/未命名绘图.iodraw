@@ -173,7 +173,7 @@
           <mxGeometry x="465" y="50" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PMEhRpV68OZb90FWqFod-1" value="问题建模" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="640" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
