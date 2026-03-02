@@ -251,10 +251,10 @@
           <mxGeometry x="310" y="775" width="76" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PMEhRpV68OZb90FWqFod-26" value="LSTM层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="775" width="76" height="40" as="geometry" />
+          <mxGeometry x="410" y="775" width="76" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PMEhRpV68OZb90FWqFod-27" value="Actor&lt;div&gt;&amp;nbsp;π(a|s;θ)&lt;/div&gt;&lt;div&gt;输出动作分布&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="735" width="76" height="40" as="geometry" />
+          <mxGeometry x="499" y="735" width="76" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PMEhRpV68OZb90FWqFod-28" value="Critic&lt;div&gt;&amp;nbsp;V(s;w)&lt;/div&gt;&lt;div&gt;输出状态价值&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="825" width="76" height="40" as="geometry" />
@@ -264,9 +264,6 @@
         </mxCell>
         <mxCell id="PMEhRpV68OZb90FWqFod-30" value="获得奖励r和s&#39;&lt;div&gt;计算优势函数&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="775" width="76" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="PMEhRpV68OZb90FWqFod-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PMEhRpV68OZb90FWqFod-25" target="PMEhRpV68OZb90FWqFod-25">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
