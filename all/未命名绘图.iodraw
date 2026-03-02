@@ -259,7 +259,7 @@
         <mxCell id="PMEhRpV68OZb90FWqFod-28" value="Critic&lt;div&gt;&amp;nbsp;V(s;w)&lt;/div&gt;&lt;div&gt;输出状态价值&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="825" width="76" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PMEhRpV68OZb90FWqFod-29" value="LSTM层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PMEhRpV68OZb90FWqFod-29" value="执行动作a" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="775" width="76" height="40" as="geometry" />
         </mxCell>
       </root>
