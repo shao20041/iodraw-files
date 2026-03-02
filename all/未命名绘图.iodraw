@@ -172,6 +172,9 @@
         <mxCell id="ZuTkzELIxXHNHJHlLrUN-72" value="&lt;b&gt;Head&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="465" y="50" width="70" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="PMEhRpV68OZb90FWqFod-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
