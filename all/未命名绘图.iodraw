@@ -199,7 +199,7 @@
         <mxCell id="PMEhRpV68OZb90FWqFod-10" value="多轮训练&lt;div&gt;参数调优&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="710" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="PMEhRpV68OZb90FWqFod-11" value="对比验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PMEhRpV68OZb90FWqFod-11" value="&lt;div&gt;分析性能指标&lt;/div&gt;对比验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="710" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
