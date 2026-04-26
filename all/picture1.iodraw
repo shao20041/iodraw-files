@@ -10,7 +10,7 @@
         <mxCell id="env" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeWidth=2;shadow=0;strokeColor=#6c8ebf;rotation=0;gradientColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="200" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="replay" value="经验回放池\nReplay Buffer" style="shape=cylinder;whiteSpace=wrap;html=1;fillColor=#f8cecc;" parent="1" vertex="1">
+        <mxCell id="replay" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;存储交互数据&lt;/font&gt;&lt;/b&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;fillColor=#f8cecc;" parent="1" vertex="1">
           <mxGeometry x="760" y="40" width="200" height="220" as="geometry" />
         </mxCell>
         <mxCell id="fgsm" value="对抗样本生成\nFGSM\ns_adv = s + ε sign(∇Q)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;" parent="1" vertex="1">
