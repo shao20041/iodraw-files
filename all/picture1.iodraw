@@ -14,7 +14,7 @@
           <mxGeometry x="780" y="40" width="200" height="220" as="geometry" />
         </mxCell>
         <mxCell id="fgsm" value="对抗样本生成\nFGSM\ns_adv = s + ε sign(∇Q)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;" parent="1" vertex="1">
-          <mxGeometry x="40" y="440" width="220" height="100" as="geometry" />
+          <mxGeometry x="40" y="440" width="250" height="350" as="geometry" />
         </mxCell>
         <mxCell id="critic" value="Critic 网络更新\nQ(s,a)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;" parent="1" vertex="1">
           <mxGeometry x="480" y="440" width="220" height="100" as="geometry" />
@@ -71,7 +71,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dcye9L97oT1CFlAm-aNx-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dcye9L97oT1CFlAm-aNx-24" target="env">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="605" y="300" />
+              <mxPoint x="140" y="300" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="dcye9L97oT1CFlAm-aNx-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeWidth=2;shadow=0;strokeColor=#6c8ebf;rotation=0;gradientColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="520" y="40" width="170" height="220" as="geometry" />
