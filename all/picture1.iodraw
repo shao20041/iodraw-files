@@ -14,7 +14,7 @@
           <mxGeometry x="780" y="40" width="200" height="220" as="geometry" />
         </mxCell>
         <mxCell id="fgsm" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;" parent="1" vertex="1">
-          <mxGeometry x="40" y="440" width="250" height="350" as="geometry" />
+          <mxGeometry x="40" y="440" width="250" height="340" as="geometry" />
         </mxCell>
         <mxCell id="critic" value="Critic 网络更新\nQ(s,a)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;" parent="1" vertex="1">
           <mxGeometry x="480" y="440" width="220" height="100" as="geometry" />
@@ -121,10 +121,10 @@
           <mxGeometry x="45" y="490" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dcye9L97oT1CFlAm-aNx-46" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="330" y="620" width="240" height="80" as="geometry" />
+          <mxGeometry x="45" y="584.5" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dcye9L97oT1CFlAm-aNx-47" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="510" y="770" width="240" height="80" as="geometry" />
+          <mxGeometry x="45" y="680" width="240" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
