@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram name="AD-DDPG Framework" id="0">
-    <mxGraphModel dx="1386" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2213" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,7 +79,7 @@
           <mxGeometry x="610" y="40" width="170" height="220" as="geometry" />
         </mxCell>
         <mxCell id="dcye9L97oT1CFlAm-aNx-25" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;执行动作&amp;nbsp;&lt;span style=&quot;line-height: 115%;&quot; lang=&quot;EN-US&quot;&gt;&lt;img src=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAUCAMAAACK2/weAAAAAXNSR0IArs4c6QAAAGlQTFRFAAAAAAAAAAA6ADpmADqQAGa2OgAAOgA6OgBmOmaQOpDbZgAAZgA6ZgBmZjoAZjpmZrbbZrb/kDoAkJA6kJBmkNvbkNv/tmY6tmZmtv//25A625C22//b2////7Zm/9uQ/9u2//+2///bjKtQoAAAAAF0Uk5TAEDm2GYAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAAZdEVYdFNvZnR3YXJlAE1pY3Jvc29mdCBPZmZpY2V/7TVxAAAAaUlEQVQoU2NgoB+Q52NkFhaE2SfPJsAgxyQG5SoJsTIwyLHIQrny7EAJKaAQBMhzSDIocoO0KvJLArnsYgoiPKISkvJsjIxAReKMnDJCIKOkuFB8Iw4zHSyqyCspDTMfxBVigruFuDAAAEXeBMVd5qu2AAAAAElFTkSuQmCC&quot; height=&quot;20&quot; width=&quot;14&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;与环境交互&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;获得奖励&amp;nbsp;&lt;img style=&quot;font-family: 等线; background-color: initial;&quot; src=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAUCAMAAABs8jdaAAAAAXNSR0IArs4c6QAAAFdQTFRFAAAAAAAAAAA6ADqQAGa2OgAAOgBmOpDbZgAAZgBmZjpmZmZmZrb/kDoAkLbbkNv/tmYAtmY6tmZmttvbtv//25A625C227Zm2////7Zm/9uQ//+2///bs9eGYgAAAAF0Uk5TAEDm2GYAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAAZdEVYdFNvZnR3YXJlAE1pY3Jvc29mdCBPZmZpY2V/7TVxAAAAVElEQVQYV2NgoAGQ4WXiF2dllgAZLSTMy80nyQKxRZqDHW6dFJsInC0KUivNBRYQACqRYmVkBGqR5uABCogi9DAI8sP1SHOKiIFtAJnLywRSSQQAACY4AuQgFle4AAAAAElFTkSuQmCC&quot; height=&quot;20&quot; width=&quot;11&quot;&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;下一状态&amp;nbsp;&lt;img style=&quot;font-family: 等线; background-color: initial;&quot; src=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAUCAMAAACknt2MAAAAAXNSR0IArs4c6QAAAF1QTFRFAAAAAAAAAAA6AABmADqQAGa2OgAAOgBmOma2OpDbZgBmZjpmZrb/kDoAkGY6kNv/tmYAtmY6tmZmtraQttv/tv//25A625Bm25C227Zm2////7Zm/9uQ//+2///bUfGOVAAAAAF0Uk5TAEDm2GYAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAAZdEVYdFNvZnR3YXJlAE1pY3Jvc29mdCBPZmZpY2V/7TVxAAAAdklEQVQoU9XPORKAIAwFUHDfcAcVkPsf0ySoY4GdjWlYHhN+GPt1uZbzqAmOoBLthi5IJp5fp96yQt+oStpuuaTVCTjvNR2I3DghmZLIZpynFzFmkRa4w4b4HB3iQiaiq86Q519P2iu5YpgQCT+2px76+qhf1gGJ1QW7RyAMygAAAABJRU5ErkJggg==&quot; height=&quot;20&quot; width=&quot;26&quot;&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;align=center;" parent="1" vertex="1">
-          <mxGeometry x="625" y="80" width="140" height="120" as="geometry" />
+          <mxGeometry x="625" y="80" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="dcye9L97oT1CFlAm-aNx-26" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;3.环境交互&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;" parent="1" vertex="1">
           <mxGeometry x="630" y="50" width="130" height="30" as="geometry" />
@@ -219,7 +219,7 @@
           <mxGeometry x="384.45" y="90" width="171.11" height="100" as="geometry" />
         </mxCell>
         <mxCell id="dcye9L97oT1CFlAm-aNx-113" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="10" y="330" width="1180" height="400" as="geometry" />
+          <mxGeometry y="830" width="1180" height="400" as="geometry" />
         </mxCell>
         <mxCell id="dcye9L97oT1CFlAm-aNx-114" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="820" y="355" width="333" height="350" as="geometry" />
