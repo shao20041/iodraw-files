@@ -117,6 +117,9 @@
         <mxCell id="dcye9L97oT1CFlAm-aNx-44" value="&lt;p style=&quot;font-size: 16px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;line-height: 115%;&quot;&gt;&lt;b&gt;&lt;img width=&quot;80&quot; height=&quot;21&quot; src=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAAAVCAMAAADmWplAAAAAAXNSR0IArs4c6QAAAI1QTFRFAAAAAAAAAAA6AABmADo6ADpmADqQAGa2OgAAOgA6OgBmOjo6OjqQOmaQOma2OpC2OpDbZgA6ZjoAZjqQZpDbZrbbZrb/kDoAkDo6kDpmkGY6kNv/tmYAtmY6trbbttu2ttvbttv/tv//25A625Bm27Zm27aQ29u22////7Zm/9uQ/9u2/9vb//+2///bnK2TnAAAAAF0Uk5TAEDm2GYAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAAZdEVYdFNvZnR3YXJlAE1pY3Jvc29mdCBPZmZpY2V/7TVxAAABBklEQVQ4T+2S25LCIAyGA7q0uqd6aPGA62qtgtq8/+NtsEyF7q7VGa8cc5Nh+PmS/AHgGeRAzrL7+oDT9T2AOGNcaKDUFfowjFDS6abYxOx9Vb9A+anzCE4pgV0RHZejVmA5mJ9LloMMlajP+zcNKgObFmQhQU27kwEQcvsc7IyMZ2CELvrfXy4RezP+c14nr+5CYPF6aiEXGhdzKIc8lS9rl0Bxx0PJquDVdE7+G4iTFCdWYzpnI6/YQS1vVlIJVYssoYg/Wt33Kvlyb+R9j7ojw6wSJcH/i2YjgdwDmg59XkVAk1wGNgqFcr/DOIVtTFuh38huGDmU+1umG55esYSn5AEc+AGushhRxVi0swAAAABJRU5ErkJggg==&quot;&gt;&lt;/b&gt;&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="700" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="dcye9L97oT1CFlAm-aNx-45" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
