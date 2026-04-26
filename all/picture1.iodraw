@@ -13,7 +13,7 @@
         <mxCell id="replay" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;存储交互数据&lt;/font&gt;&lt;/b&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;fillColor=#f8cecc;" parent="1" vertex="1">
           <mxGeometry x="780" y="40" width="200" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="fgsm" value="对抗样本生成\nFGSM\ns_adv = s + ε sign(∇Q)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;" parent="1" vertex="1">
+        <mxCell id="fgsm" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="40" y="440" width="250" height="350" as="geometry" />
         </mxCell>
         <mxCell id="critic" value="Critic 网络更新\nQ(s,a)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;" parent="1" vertex="1">
@@ -95,6 +95,9 @@
         </mxCell>
         <mxCell id="dcye9L97oT1CFlAm-aNx-35" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:115%;&#xa;font-family:等线;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&#xa;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&#xa;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&#xa;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;&lt;img width=&quot;90&quot; height=&quot;20&quot; src=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAAAUCAMAAAA6JNosAAAAAXNSR0IArs4c6QAAAI1QTFRFAAAAAAAAAAA6AABmADpmADqQAGa2OgAAOgA6OgBmOmaQOma2OpDbZgAAZgA6ZgBmZjoAZjo6ZjpmZmZmZrbbZrb/kDoAkGY6kJA6kJBmkLbbkNvbkNv/tmYAtmY6tmZmtraQttvbttv/tv//25A625Bm25C227Zm2//b2////7Zm/9uQ/9u2//+2///b4c2t8wAAAAF0Uk5TAEDm2GYAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAAZdEVYdFNvZnR3YXJlAE1pY3Jvc29mdCBPZmZpY2V/7TVxAAABZUlEQVRIS9VU21bCMBBMyqWKFEUxeAGrNFhpm/z/57mXhG7jOTzVB/KQks3OZHayRKkrHd1WL0eWbvXdCSi9meNn3NGZORC2N7txaYmtmVRAfQvT6INY3epfVM/AZW+e0fGt1hn+gLMK+rYPevrCEQ55k+3qHCExRYDSsm3vtZ2d/AfLZ+o236gmCwVRqPwyT28NQiK1AKXUzfQA8A3bfoi7ZBP0DQRJIp5D9+GK2KThfgToz2XZCcC4/jqnVoRB4qlvqKpzSFx4qE+AIMvywTXJIFXxGr2BLfcY2gV1sTPnkIL65RJ5JIiofflJ1JRLxTVLympzrVkpqO5eV+9l1YfUHrBimYKCajaLZpqOwImGhG20RS9+oCVEiIvoMwYgPBJ6DPIFtSuiydHn4ZVEXwe2D1JChlTtDXVAt9ahfZW7r76TByUJXcgQ1FYv0nfJmfC36VUloQsZTL0HX8Z+SIc2Xu3qF3onJebVldTkAAAAAElFTkSuQmCC&quot;&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="120" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dcye9L97oT1CFlAm-aNx-37" value="&lt;b&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:11.0pt;&#xa;mso-bidi-font-size:12.0pt;line-height:115%;font-family:等线;mso-ascii-theme-font:&#xa;minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-latin;&#xa;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&#xa;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;5. &lt;/span&gt;&lt;span style=&quot;font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:115%;font-family:&#xa;等线;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&#xa;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&#xa;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&#xa;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;对抗样本生成（&lt;span lang=&quot;EN-US&quot;&gt;FGSM&lt;/span&gt;）&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="670" width="210" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
