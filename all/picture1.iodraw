@@ -1,70 +1,48 @@
-<mxfile host="app.diagrams.net">
-  <diagram name="AD-DDPG Framework">
-    <mxGraphModel dx="1200" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
+  <diagram name="AD-DDPG Framework" id="0">
+    <mxGraphModel dx="1386" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <mxCell id="0"/>
-        <mxCell id="1" parent="0"/>
-
-        <!-- Environment -->
-        <mxCell id="env" value="环境 (Env)\nUAV + Pursuers + Map" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="200" height="80" as="geometry"/>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="env" value="环境 (Env)\nUAV + Pursuers + Map" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="200" height="200" as="geometry" />
         </mxCell>
-
-        <!-- Actor -->
-        <mxCell id="actor" value="Actor 网络\nμ(s|θ)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="280" y="40" width="200" height="80" as="geometry"/>
+        <mxCell id="actor" value="Actor 网络\nμ(s|θ)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;" parent="1" vertex="1">
+          <mxGeometry x="280" y="40" width="200" height="80" as="geometry" />
         </mxCell>
-
-        <!-- Interaction -->
-        <mxCell id="interact" value="环境交互\n(s,a,r,s')" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="520" y="40" width="200" height="80" as="geometry"/>
+        <mxCell id="interact" value="环境交互\n(s,a,r,s&#39;)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;" parent="1" vertex="1">
+          <mxGeometry x="520" y="40" width="200" height="80" as="geometry" />
         </mxCell>
-
-        <!-- Replay -->
-        <mxCell id="replay" value="经验回放池\nReplay Buffer" style="shape=cylinder;whiteSpace=wrap;html=1;fillColor=#f8cecc;" vertex="1" parent="1">
-          <mxGeometry x="760" y="40" width="180" height="100" as="geometry"/>
+        <mxCell id="replay" value="经验回放池\nReplay Buffer" style="shape=cylinder;whiteSpace=wrap;html=1;fillColor=#f8cecc;" parent="1" vertex="1">
+          <mxGeometry x="760" y="40" width="180" height="100" as="geometry" />
         </mxCell>
-
-        <!-- FGSM -->
-        <mxCell id="fgsm" value="对抗样本生成\nFGSM\ns_adv = s + ε sign(∇Q)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;" vertex="1" parent="1">
-          <mxGeometry x="200" y="200" width="220" height="100" as="geometry"/>
+        <mxCell id="fgsm" value="对抗样本生成\nFGSM\ns_adv = s + ε sign(∇Q)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;" parent="1" vertex="1">
+          <mxGeometry x="40" y="440" width="220" height="100" as="geometry" />
         </mxCell>
-
-        <!-- Critic -->
-        <mxCell id="critic" value="Critic 网络更新\nQ(s,a)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;" vertex="1" parent="1">
-          <mxGeometry x="460" y="200" width="220" height="100" as="geometry"/>
+        <mxCell id="critic" value="Critic 网络更新\nQ(s,a)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;" parent="1" vertex="1">
+          <mxGeometry x="460" y="200" width="220" height="100" as="geometry" />
         </mxCell>
-
-        <!-- Actor update -->
-        <mxCell id="actor_update" value="Actor 网络更新" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="720" y="200" width="200" height="100" as="geometry"/>
+        <mxCell id="actor_update" value="Actor 网络更新" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;" parent="1" vertex="1">
+          <mxGeometry x="720" y="200" width="200" height="100" as="geometry" />
         </mxCell>
-
-        <!-- Edges -->
-        <mxCell edge="1" parent="1" source="env" target="actor">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="2" parent="1" source="env" target="actor" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-
-        <mxCell edge="1" parent="1" source="actor" target="interact">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="3" parent="1" source="actor" target="interact" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-
-        <mxCell edge="1" parent="1" source="interact" target="replay">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="4" parent="1" source="interact" target="replay" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-
-        <mxCell edge="1" parent="1" source="replay" target="fgsm">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="5" parent="1" source="replay" target="fgsm" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-
-        <mxCell edge="1" parent="1" source="fgsm" target="critic">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="6" parent="1" source="fgsm" target="critic" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-
-        <mxCell edge="1" parent="1" source="critic" target="actor_update">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="7" parent="1" source="critic" target="actor_update" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-
       </root>
     </mxGraphModel>
   </diagram>
