@@ -11,7 +11,7 @@
           <mxGeometry x="40" y="40" width="200" height="220" as="geometry" />
         </mxCell>
         <mxCell id="replay" value="经验回放池\nReplay Buffer" style="shape=cylinder;whiteSpace=wrap;html=1;fillColor=#f8cecc;" parent="1" vertex="1">
-          <mxGeometry x="760" y="40" width="200" height="200" as="geometry" />
+          <mxGeometry x="760" y="40" width="200" height="220" as="geometry" />
         </mxCell>
         <mxCell id="fgsm" value="对抗样本生成\nFGSM\ns_adv = s + ε sign(∇Q)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="40" y="440" width="220" height="100" as="geometry" />
