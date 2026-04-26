@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram name="AD-DDPG Framework" id="0">
-    <mxGraphModel dx="369" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1205" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
         <mxCell id="fgsm" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;gradientColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="40" y="360" width="250" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="critic" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;" parent="1" vertex="1">
+        <mxCell id="critic" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;gradientColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="360" y="360" width="270" height="340" as="geometry" />
         </mxCell>
         <mxCell id="actor_update" value="Actor 网络更新" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;" parent="1" vertex="1">
@@ -163,7 +163,7 @@
           <mxGeometry x="430" y="960" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dcye9L97oT1CFlAm-aNx-63" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:115%;&amp;lt;br/&amp;gt;font-family:等线;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&amp;lt;br/&amp;gt;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&amp;lt;br/&amp;gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&amp;lt;br/&amp;gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;&lt;img width=&quot;119&quot; height=&quot;20&quot; src=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHcAAAAUCAMAAACAh1JMAAAAAXNSR0IArs4c6QAAALFQTFRFAAAAAAAAAAA6ADo6ADpmADqQAGZmAGa2OgAAOgA6OgBmOjqQOmaQOpC2OpDbZgAAZgA6ZgBmZjoAZjpmZjqQZmYAZmZmZma2ZpDbZrbbZrb/kDoAkDo6kDpmkGY6kGZmkNv/tmYAtmY6trbbtrb/ttu2ttvbttv/tv//25A625Bm25CQ25C227Zm27aQ27a229uQ29u22/+22//b2////7Zm/9uQ/9u2/9vb//+2///b2jBhPgAAAAF0Uk5TAEDm2GYAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAAZdEVYdFNvZnR3YXJlAE1pY3Jvc29mdCBPZmZpY2V/7TVxAAABhElEQVRIS+1TaVODMBDdoEhbK9h6QtQWtFrQelJq8v9/mJuDlkMS/Op0ZzI7s7vv7RmAvfzzCcTEmXe0aHD1GooRzwK/i8TgakLY6S/FG/HFsKtdMLh65TXi127e1a/BZcpbTIn7RT0AIz7GACWcEiXlwncu6zorcy4GISSXoyWACc9p1EVqcNUg9Xq57JQgqxH/x/XyG3UNpS4L2PUrCVOxvDZ1KspRIneQSLLmnCuuWn/sDGfYkEpenLA65Dae326RKU7lVSyjLaWL3xESbaZeNvBZ4EExIOQINUi7htX63cwuoucnqOAd7A7DD9wceTh1oQjEIW1Pq5q8dHF6kmfzt/dhuPYhxUb0U/ZWXkjIOE+dcEst4rAEqXz4WHnfi3PrnWJAcSw/mqhebUQ/bbdSiLg4kjQJjgdzrztPuUqGa9pc4acQwWyyeGCT5csnam235sW41ejxXivkya6tGH1u4xwzihtggZsz6kRC4xmi3S5s6oT0cKkVxE6/tHbifYR1Aj8+7i/WuYo3HgAAAABJRU5ErkJggg==&quot;&gt;&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="1020" width="150" height="50" as="geometry" />
+          <mxGeometry x="480" y="970" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
